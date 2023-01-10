@@ -1,7 +1,7 @@
 # Azure Administrator Associate
 This repository will serve as a central hub for all notes and materials created on my path to obtain the Azure Administrator Associate certification (Az-104). The folders in the repository are divided by Chapters that correspond to sections of the exam guide (below).
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fintunedin.net%2F2022%2F10%2F11%2Fexam-az-104-microsoft-azure-administrator-resource-guide-october-2022-update%2F&psig=AOvVaw0fv1R0V-bPBPXSPpKQFyll&ust=1673404317167000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPip84H7u_wCFQAAAAAdAAAAABAD?fit=max&fm=webp&q=80&w=200)
+![](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?fit=max&fm=webp&q=80&w=200)
 ___
 
 ## Exam Guide  
