@@ -1,7 +1,7 @@
 # Azure Administrator Associate
 This repository will serve as a central hub for all notes and materials created on my path to obtain the Azure Administrator Associate certification (Az-104). The folders in the repository are divided by Chapters that correspond to sections of the exam guide (below).
 
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80" height="200">
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" height="300">
 ___
 ## Exam Guide
 ### Manage Azure identities and governance (15–20%)
